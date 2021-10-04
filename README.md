@@ -2,7 +2,9 @@
 Data science techniques of tabular time series data
 Let's create great data sciense tools for tabular time series
 
-Contribution:
-    -Feel free to add new tabular time series techniques to this repo
-    -Please put the refrences of your code (papers, Kaggle solutions and etc.)
-    -If you know some good techniques, I will merge them
+## Contribution:
+```markdown
+    - Feel free to add new tabular time series techniques to this repo
+    - Please put the refrences of your code (papers, Kaggle solutions and etc.)
+    - If you know some good techniques, I will merge them
+```
